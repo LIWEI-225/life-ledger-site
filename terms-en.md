@@ -5,7 +5,7 @@ lang: en
 
 # Terms of Use
 
-Effective date: November 12, 2026
+Effective date: November 13, 2026
 
 By using Life 小夥伴, you agree to these terms. Apple's standard Licensed Application End User License Agreement (EULA) still applies. A custom EULA replaces Apple's standard EULA only if the publisher explicitly configures one in App Store Connect.
 
@@ -17,7 +17,7 @@ You may enter information manually or authorize the app to read location, motion
 
 ## Trial and purchases
 
-The app currently offers a 14-day trial and a one-time, non-consumable unlock purchased through the App Store. There is currently no auto-renewing subscription. The actual price, availability, and product details are shown in the App Store purchase sheet. Apple handles payment, refunds, purchase restoration, and transaction records under its processes and terms. After reinstalling, you may use Restore Purchases to restore verified entitlements when Apple's purchase rules permit.
+The app currently offers a 14-day trial and three plans purchased through the App Store: a monthly subscription and a yearly subscription (both auto-renewing), and a one-time, non-consumable lifetime unlock. Subscriptions renew automatically and are charged to your Apple Account within 24 hours before the end of each period unless cancelled at least 24 hours before the period ends. You can manage or cancel anytime in iPhone Settings → your Apple Account → Subscriptions; after cancelling, access continues until the end of the current period. The actual price, availability, and product details are shown in the App Store purchase sheet. Apple handles payment, refunds, purchase restoration, and transaction records under its processes and terms. After reinstalling, you may use Restore Purchases to restore verified entitlements when Apple's purchase rules permit.
 
 ## Your content and information
 
