@@ -6,9 +6,8 @@ lang: zh-Hant
 # Life 小夥伴 支援
 
 
-- 發行者：[填入 App Store Connect 顯示的個人/公司名稱]
-- 支援電子郵件：[填入實際可收信地址]
-- 郵寄地址或電話：[依發行地與銷售地區法規填入]
+- 發行者：VV Studio
+- 支援電子郵件：[vvstudiocode@gmail.com](mailto:vvstudiocode@gmail.com)
 
 ## 常見問題
 
