@@ -1,0 +1,40 @@
+---
+title: Privacy Policy
+lang: en
+---
+
+# Privacy Policy
+
+Effective date: November 12, 2026
+
+Life 小夥伴 is provided by the publisher identified on this app's App Store product page. This policy describes how the app handles information you create or allow it to access.
+
+## How the app handles information
+
+Life 小夥伴 does not require an account and has no Life 小夥伴 account or record server, advertising tracking, or analytics SDK. In this version, records are stored on your device and shared between the app and its widgets through an iOS App Group on that device. CloudKit/iCloud record sync is currently disabled. Apple may include app data in system backups according to your device settings; those backups are managed by Apple.
+
+## Information and purposes
+
+- **Information you enter:** time entries, titles, notes, feelings, categories, values, reflections, place names, and people's names and relationships. The app uses this information for your timeline, summaries, and reflections and stores it in its local database.
+- **Location and Wi-Fi name (optional):** if you enable place recording and grant iOS location access, Core Location provides location and visit times in the foreground or background. The app stores coordinates on your device and uses them to learn familiar places. When available and permitted by the system, the app may also read the connected Wi-Fi name to help recognize a place.
+- **Apple Maps place lookup:** the app sends the coordinates of a new place to Apple's MapKit/geocoding services to find nearby points of interest, businesses, or an address, then processes the results on your device. Apple handles map requests under its own policies; the publisher of Life 小夥伴 does not receive a copy of those requests. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+- **Live weather location:** live weather for the Life Landscape is currently on by default. If you have already granted location access and choose live weather, the app rounds your current coordinates to one decimal place (about a 10 km area) and sends them over the internet to Open-Meteo for a weather lookup. If you choose a region, the app sends that region's public center coordinates instead. No request is made when location is unavailable and no region is selected. You can turn weather off or choose fixed weather in Settings → Life Landscape. Open-Meteo may process server logs such as IP addresses, request URLs, and coordinates. Its current policy says individual logs are kept for up to 90 days; see the latest [Open-Meteo Privacy and Terms](https://open-meteo.com/en/terms). Life 小夥伴 does not receive Open-Meteo's server logs.
+- **Motion, Health, and Calendar (optional):** if you enable these sources and grant access, the app reads activities such as walking, running, and driving; sleep, workouts, and step count from HealthKit; and calendar event titles and start/end times. It turns them into timeline entries stored locally. The app does not write to HealthKit or send this read data to a Life 小夥伴 server.
+- **Photo backgrounds:** when you select a background photo using Apple's system photo picker, the selected photo is copied into the app's data on your device for display. Life 小夥伴 does not upload it. Remove it in Settings → Page Backgrounds.
+- **Face ID/Touch ID:** iOS performs biometric authentication. The app receives only a success/failure result and does not access or store biometric data.
+- **Purchases and trial:** the App Store/StoreKit handles the one-time in-app purchase. The app stores the trial start date and access state locally; Apple manages payment information and your Apple Account. A Keychain item for the trial start date may remain after deleting the app to prevent reinstalling from resetting the trial.
+- **On-device summaries and display:** when available, Apple Foundation Models generates daily text and reflections on device; otherwise the app uses local templates. Widgets, the Lock Screen, and Live Activities may display timeline information according to your settings.
+
+## Sharing, export, and third-party services
+
+The app has no Life 小夥伴 server, so its publisher cannot read or remotely delete records stored on your device. When you export JSON/CSV, the iOS share sheet sends the file to the app, file location, or cloud service you choose; that service's policy then applies. Apple Maps and Open-Meteo handle the service requests described above under their own policies. The app does not sell your records or use them for advertising.
+
+## Retention, deletion, and permissions
+
+Records remain on your device until you delete them using Settings → Data → Delete All Data, or iOS removes app data. If you enable system backups, a copy from an earlier backup may return when that backup is restored. Delete All Data clears in-app time, place, people, values, feelings, and reflection records. It does not delete exported copies, copies in services you chose, App Store/StoreKit purchase records, the trial date, or general preferences. Remove custom background photos separately in Page Backgrounds. Revoking iOS location, Health, or Calendar permission stops future reads but does not automatically remove timeline entries already created; use Delete All Data to clear those records.
+
+You can revoke location, Health, Calendar, or notification permissions in iOS Settings, or turn off the corresponding source and live weather in the app. To request deletion of information handled by Apple or Open-Meteo, follow that service's current policy. The publisher of Life 小夥伴 cannot access or delete those providers' system logs for you.
+
+## Changes and contact
+
+We will update this policy and its effective date if our data handling changes. To contact the publisher, use the App Support link on the app's App Store product page. The publisher must provide valid support contact information there.
