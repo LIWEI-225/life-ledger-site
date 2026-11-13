@@ -5,7 +5,7 @@ lang: en
 
 # Terms of Use
 
-Effective date: November 13, 2026
+Effective date: November 14, 2026
 
 By using Life 小夥伴, you agree to these terms. Apple's standard Licensed Application End User License Agreement (EULA) still applies. A custom EULA replaces Apple's standard EULA only if the publisher explicitly configures one in App Store Connect.
 
@@ -13,7 +13,7 @@ By using Life 小夥伴, you agree to these terms. Apple's standard Licensed App
 
 Life 小夥伴 is a personal time-recording and reflection tool. The publisher grants you a limited, non-exclusive, non-transferable license to use the app on Apple devices you own or control. You may not copy, distribute, reverse engineer, or use the app without authorization, except where applicable law allows it.
 
-You may enter information manually or authorize the app to read location, motion, HealthKit, Calendar, and Wi-Fi information. Automatically inferred places, categories, and summaries may be incomplete or inaccurate; review them before relying on them. The app is not medical or mental-health diagnosis, treatment, health management, or an emergency service, and does not replace professional advice. Weather is used only to illustrate the Life Landscape and is not for safety decisions.
+You may enter information manually or authorize the app to read location, motion, HealthKit, Calendar, and Wi-Fi information. Automatically inferred places, categories, and summaries may be incomplete or inaccurate; review them before relying on them. The app is not medical or mental-health diagnosis, treatment, health management, or an emergency service, and does not replace professional advice. Apple WeatherKit data is transformed into clear, cloudy, or rainy Life Landscape scenes; the app does not provide raw forecasts or weather for safety decisions. Do not attempt to reverse engineer the original WeatherKit data from the app's display.
 
 ## Trial and purchases
 
@@ -27,7 +27,7 @@ You retain rights to and responsibility for the content you enter. Do not enter 
 
 The app, place identification, and weather may be unavailable because of network access, system permissions, device conditions, or third-party services. Automatic identification is not guaranteed to be accurate. To the extent permitted by law, the publisher does not guarantee uninterrupted service or suitability for a particular purpose. Nothing in these terms excludes or limits mandatory consumer rights.
 
-Apple Maps, Open-Meteo, HealthKit, Calendar, the photo picker, and the App Store are also subject to their providers' terms. You must follow those rules when using the services.
+Apple Maps, Apple WeatherKit, HealthKit, Calendar, the photo picker, and the App Store are also subject to their providers' terms. You must follow those rules when using the services.
 
 ## Changes and contact
 
